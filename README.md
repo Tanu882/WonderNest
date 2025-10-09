@@ -65,7 +65,7 @@ This project helped me enhance my skills in:
 
 It's live now and open for exploration!
 
-👉 **Check it out here:** [https://wandernest-w9b9.onrender.com](https://wandernest-w9b9.onrender.com)
+👉 **Check it out here:** [https://wandernest-w9b9.onrender.com]([https://wandernest-w9b9.onrender.com](https://wondernest-qgq3.onrender.com))
 
 ---
 
