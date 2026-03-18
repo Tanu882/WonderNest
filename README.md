@@ -11,7 +11,7 @@ That lets users **explore destinations, book accommodations**, and **share revie
 ## 🚀 Live Demo
 
 🔗 Live Website: https://wandernest.onrender.com  
-🔗 GitHub Repository: https://github.com/nahida-athanikar/WanderNest
+🔗 GitHub Repository: https://github.com/Tanu882/WonderNest/tree/main
 
 
 ---
