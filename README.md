@@ -112,34 +112,34 @@ WanderNest
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>All Listings</b><br><br>
+      <b>Screenshot 1</b><br><br>
       <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20181245.png" width="400"><br><br>
       <i>All Listings</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Property Details</b><br><br>
-      <img src="      " width="400"><br><br>
-      <i>Filter Listings</i>
+      <b>Screenshot 2</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20185421.png" width="400"><br><br>
+      <i>Searching Filter</i>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Signup Page</b><br><br>
+      <b>Screenshot 3</b><br><br>
       <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182054.png" width="400"><br><br>
-      <i>Login Page</i>
+      <i>Signup Page</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Login Page</b><br><br>
-      <img src="assets/s4.png" width="400"><br><br>
-      <i>Signup Page</i>
+      <b>Screenshot 4</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190649.png" width="400"><br><br>
+      <i>Login Page</i>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
       <b>List Your Property</b><br><br>
-      <img src="assets/s5.png" width="400"><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190714.png" width="400"><br><br>
       <i>Dashboard View</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
@@ -170,16 +170,16 @@ WanderNest
     </td>
     <td align="center" style="border:1px solid #ccc; padding:10px;">
       <b>Add Review</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20181029.png" width="400"><br><br>
-      <i>Favorites List</i>
+      <img src="  " width="400"><br><br>
+      <i>Add Review</i>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
       <b>Wish List</b><br><br>
-      <img src=" " width="400"><br><br>
-      <i>Admin Panel</i>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190608.png" width="400"><br><br>
+      <i>Wish List</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
       <b>Map and Footer Section</b><br><br>
