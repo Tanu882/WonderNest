@@ -1,16 +1,11 @@
-# 🌍 RantEst – Property Management Web App
-
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-![EJS](https://img.shields.io/badge/Templating-EJS-orange)
-![Cloudinary](https://img.shields.io/badge/Media-Cloudinary-blue)
-![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)
-![CSS3](https://img.shields.io/badge/Style-CSS3-blueviolet)
-![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+# 🏡 WanderNest – Travel & Stay Booking Platform
 
 
-🚀 **WanderNest** is a full-stack web application that lets users explore destinations, book accommodations, and share reviews — powered with AI-driven search, cloud media uploads, and interactive maps.
+**WanderNest** is a full-stack web application.                                              
+
+That lets users **explore destinations, book accommodations**, and **share reviews — powered with AI-driven search, cloud media uploads**, and interactive maps. Built using **Node.js, Express.js, MongoDB**, and enhanced with **cloud image storage, social login, map integration**, and **secure authentication systems**.
+
+
 
 ---
 ## 🚀 Live Demo
@@ -18,40 +13,112 @@
 🔗 Live Website: https://wandernest.onrender.com  
 🔗 GitHub Repository: https://github.com/nahida-athanikar/WanderNest
 
-## 📌 Features
 
-### 🏠 Property Listings
-- Create, edit, and delete property listings
-- Upload property images
-- View detailed listing pages
+---
 
-### 🔐 Authentication & Authorization
-- User signup and login system
-- Secure session management
-- Protected routes for authorized users
-- Only listing owners can edit/delete their listings
+## 📸 Screenshots
 
-### ⭐ Reviews & Ratings
-- Users can leave reviews on properties
-- Delete reviews functionality
-- Displays user feedback for better decision making
+<table align="center">
 
-### 🖼 Image Upload
-- Upload listing images using **Multer**
-- Store images securely using **Cloudinary**
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 1</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20181245.png" width="400"><br><br>
+      <i>All Listings</i>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 2</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20185421.png" width="400"><br><br>
+      <i>Searching Filter</i>
+    </td>
+  </tr>
 
-### 🗺 Location Map
-- Integrated **Mapbox API** for displaying property locations
-- Helps users visualize where the property is located
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 3</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182054.png" width="400"><br><br>
+      <i>Signup Page</i>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 4</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190649.png" width="400"><br><br>
+      <i>Login Page</i>
+    </td>
+  </tr>
 
-### 🤖 AI Search
-- AI-powered property search
-- Implemented using **Google Gemini API** and **Natural.js**
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 5</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190714.png" width="400"><br><br>
+      <i>List Your Property</i>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 6</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182341.png" width="400"><br><br>
+      <i>Upload Property Image</i>
+    </td>
+  </tr>
 
-### 📱 Responsive Design
-- Fully responsive UI
-- Works across mobile, tablet, and desktop devices
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 7</b><br><br>
+      <img src="https://github.com/Tanu882/WonderNest/blob/main/Screenshot%202026-03-18%20181320.png" width="400"><br><br>
+      <i>Property Details</i>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 8</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20200255.png" width="400"><br><br>
+      <i>More About Property</i>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <b>Screenshot 9</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182549.png" width="400"><br><br>
+      <i>Calander UI</i>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <b>Screenshot 10</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20200331.png" width="400"><br><br>
+      <i>Add Review</i>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 11</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190608.png" width="400"><br><br>
+      <i>Wish List</i>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:12px;">
+      <b>Screenshot 12</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182737.png" width="400"><br><br>
+      <i>Map and Footer Section</i>
+    </td>
+  </tr>
+
+</table>
+
+---
+
+## 🎯 Project Overview
+
+WonderNest is a comprehensive property listing and booking platform designed to deliver a seamless user experience. It supports property discovery, user account management, reviews, and location-based interactions. The application integrates multiple authentication methods, secure session handling, cloud-based image storage, and dynamically rendered interfaces to ensure performance, scalability, and usability.
+
+-----
+## 🚀 Key Features
+
+- 🔐 **Auth** – Signup, login, sessions, protected routes  
+- 🏠 **Listings** – Create, edit, delete, view properties  
+- 🖼️ **Images** – Multer + Cloudinary uploads  
+- 🗺️ **Maps** – Mapbox location integration  
+- ⭐ **Reviews** – Add/delete reviews & ratings  
+- 👤 **Users** – Profile & listing management  
+- 🌐 **Social Login** – Google + email/password  
+- 🤖 **AI Search** – Gemini API + NLP  
+- 🔒 **Security** – Hashing, validation, cookies  
+- 📱 **Responsive** – Works on all devices  
 ---
 
 ## 🛠 Tech Stack
@@ -69,7 +136,7 @@
 | **Version Control** | Git & GitHub |
 
 ---
-## 📂 Project Structure
+## 📁 Detailed Project Structure
 
 ```
 WanderNest
@@ -106,123 +173,21 @@ WanderNest
 ├── app.js
 └── package.json
 ```
-## 📸 Screenshots
-
-<table align="center">
-
-  <tr>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 1</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20181245.png" width="400"><br><br>
-      <i>All Listings</i>
-    </td>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 2</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20185421.png" width="400"><br><br>
-      <i>Searching Filter</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 3</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182054.png" width="400"><br><br>
-      <i>Signup Page</i>
-    </td>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 4</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190649.png" width="400"><br><br>
-      <i>Login Page</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>List Your Property</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190714.png" width="400"><br><br>
-      <i>Dashboard View</i>
-    </td>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Upload Property Image</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182341.png" width="400"><br><br>
-      <i>User Profile</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Property Details</b><br><br>
-      <img src="https://github.com/Tanu882/WonderNest/blob/main/Screenshot%202026-03-18%20181320.png" width="400"><br><br>
-      <i>Property Details</i>
-    </td>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>More About Property</b><br><br>
-      <img src="assets/s8.png" width="400"><br><br>
-      <i>Booking Page</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border:1px solid #ccc; padding:10px;">
-      <b>Calander UI</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182549.png" width="400"><br><br>
-      <i>Search Results</i>
-    </td>
-    <td align="center" style="border:1px solid #ccc; padding:10px;">
-      <b>Add Review</b><br><br>
-      <img src="  " width="400"><br><br>
-      <i>Add Review</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Wish List</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20190608.png" width="400"><br><br>
-      <i>Wish List</i>
-    </td>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Map and Footer Section</b><br><br>
-      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182737.png" width="400"><br><br>
-      <i>Settings Page</i>
-    </td>
-  </tr>
-
-</table>
-
 
 ---
-
 ## 👤 User Workflow
 
-The typical workflow of the WanderNest platform is as follows:
+Signup → Login → Browse Listings → View Details → Add Listing → Manage Listings → Leave Reviews → View Map → Logout
 
-1. **User Registration**
-   - A new user creates an account using the signup form.
 
-2. **User Login**
-   - Registered users log in securely using their credentials.
-
-3. **Browse Listings**
-   - Users can explore available properties on the homepage.
-
-4. **View Property Details**
-   - Users can open a listing to view detailed information including images, price, description, and location.
-
-5. **Add a Listing**
-   - Authenticated users can create a new property listing by providing property details and uploading images.
-
-6. **Edit / Delete Listing**
-   - Property owners can update or remove their listings.
-
-7. **Leave Reviews**
-   - Users can add reviews and ratings for properties they have visited.
-
-8. **View Location on Map**
-   - Users can view property locations using integrated map services.
-
-9. **Logout**
-   - Users can securely logout from the platform.
+- 📝 **Signup/Login** – Create account or log in  
+- 🔍 **Browse** – Explore available listings  
+- 📄 **Details** – View property info, images & location  
+- ➕ **Add Listing** – Create new property with images  
+- ✏️ **Manage Listings** – Edit or delete your listings  
+- ⭐ **Reviews** – Add ratings & feedback  
+- 🗺️ **Map View** – See property location  
+- 🚪 **Logout** – Securely exit account  
 --- 
 
 ## 📦 Installation Guide
@@ -274,8 +239,14 @@ Open http://localhost:8080/listings in your web browser.
 
 ## 👤 Author
 
-**Nahida Athanikar**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nahida-athanikar)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanu-yadav-693a1a261/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanu%20Yadav-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Tanu882">
+    <img src="https://img.shields.io/badge/GitHub-Tanu882-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
