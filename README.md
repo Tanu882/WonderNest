@@ -112,25 +112,25 @@ WanderNest
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 1</b><br><br>
-      <img src="assets/s1.png" width="400"><br><br>
+      <b>All Listings</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20181245.png" width="400"><br><br>
       <i>All Listings</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 2</b><br><br>
-      <img src="assets/s2.png" width="400"><br><br>
+      <b>Property Details</b><br><br>
+      <img src="      " width="400"><br><br>
       <i>Filter Listings</i>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 3</b><br><br>
-      <img src="assets/s3.png" width="400"><br><br>
+      <b>Signup Page</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182054.png" width="400"><br><br>
       <i>Login Page</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 4</b><br><br>
+      <b>Login Page</b><br><br>
       <img src="assets/s4.png" width="400"><br><br>
       <i>Signup Page</i>
     </td>
@@ -138,52 +138,52 @@ WanderNest
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 5</b><br><br>
+      <b>List Your Property</b><br><br>
       <img src="assets/s5.png" width="400"><br><br>
       <i>Dashboard View</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 6</b><br><br>
-      <img src="assets/s6.png" width="400"><br><br>
+      <b>Upload Property Image</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182341.png" width="400"><br><br>
       <i>User Profile</i>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 7</b><br><br>
-      <img src="assets/s7.png" width="400"><br><br>
+      <b>Property Details</b><br><br>
+      <img src="https://github.com/Tanu882/WonderNest/blob/main/Screenshot%202026-03-18%20181320.png" width="400"><br><br>
       <i>Property Details</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 8</b><br><br>
+      <b>More About Property</b><br><br>
       <img src="assets/s8.png" width="400"><br><br>
       <i>Booking Page</i>
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 9</b><br><br>
-      <img src="assets/s9.png" width="400"><br><br>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <b>Calander UI</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182549.png" width="400"><br><br>
       <i>Search Results</i>
     </td>
-    <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 10</b><br><br>
-      <img src="assets/s10.png" width="400"><br><br>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <b>Add Review</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20181029.png" width="400"><br><br>
       <i>Favorites List</i>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 11</b><br><br>
-      <img src="assets/s11.png" width="400"><br><br>
+      <b>Wish List</b><br><br>
+      <img src=" " width="400"><br><br>
       <i>Admin Panel</i>
     </td>
     <td align="center" style="border:1px solid #ccc; padding:12px;">
-      <b>Screenshot 12</b><br><br>
-      <img src="assets/s12.png" width="400"><br><br>
+      <b>Map and Footer Section</b><br><br>
+      <img src="https://raw.githubusercontent.com/Tanu882/WonderNest/main/Screenshot%202026-03-18%20182737.png" width="400"><br><br>
       <i>Settings Page</i>
     </td>
   </tr>
